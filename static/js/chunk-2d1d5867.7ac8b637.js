@@ -1,0 +1,1 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([["chunk-2d1d5867"],{"YT9/":function(t,e,s){"use strict";s.r(e);function i(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"about-root"})}i._withStripped=!0;var n={},u=s("KHd+"),a=Object(u.a)(n,i,[],!1,null,"45b128b4",null);a.options.__file="src/views/about/index.vue";e.default=a.exports}}]);
